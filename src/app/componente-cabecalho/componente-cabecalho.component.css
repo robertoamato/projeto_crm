@@ -1,0 +1,76 @@
+h1,h2 {
+  text-align: left;
+  font: normal normal medium 18px/21px Cera Pro;
+  letter-spacing: 0px;
+  color: #111111;
+  opacity: 1;
+  margin-left: 15px;
+  margin-top: 35px;
+   
+}
+
+p{
+  
+  margin-top:25px ;
+  margin-left: 35px;
+  font-size: 25px;
+
+
+}
+
+h1{
+  font: normal normal 900 70px/70px Cera Pro;
+  letter-spacing: 0px;
+  color: #111111;
+  opacity: 1;
+  margin-top: 250px;
+}
+
+h2{
+  font: normal normal 100 70px/90px Cera Pro;
+  letter-spacing: 0px;
+  color: #111111;
+  opacity: 1;
+  }
+h1,h2{
+
+  margin-left: 25px;
+  font-size: 115px;
+
+
+
+}
+
+
+#imagem{
+  background: transparent url('/src/assets/MacBook-2015-6.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  float:left;
+  margin-top: -550px;
+  margin-left: 650px;
+
+}
+
+#botoes{
+  text-align: left;
+  font: normal normal bold 16px/90px Cera Pro;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  margin-top: 35px;
+
+}
+
+#botao1{
+  margin-left: 25px;
+
+
+}
+
+
+#botao2{
+  margin-left: 15px;
+
+
+}
+

@@ -1,0 +1,66 @@
+h1 {
+  margin-left: 35px;
+  font: normal normal bold 48px/48px Cera Pro;
+  letter-spacing: 0px;
+  color: #111111;
+  opacity: 1;
+}
+
+.bg-secondar,h3{
+  
+  
+  margin-left: 150px;
+  margin-top: -50px;
+  font: normal normal bold 36px/48px Cera Pro;
+letter-spacing: 0px;
+color: #0058FF;
+opacity: 1;
+}
+
+h4{
+
+  font: normal normal 900 20px/90px Cera Pro;
+  letter-spacing: 0px;
+  color: #111111;
+  opacity: 1;
+  margin-top: -35px;
+  margin-left: 45px;
+
+}
+
+.col-sm-6{
+  margin-top: 5px;
+  margin-left: 150px;
+  
+}
+
+#crmcall{
+  margin-top: -60px;
+
+
+}
+
+#semana1{
+  margin-top:-55px;
+  margin-left: 40px;
+
+
+
+}
+
+h6{
+  margin-left: 160px;
+
+
+}
+
+#semana2{
+  margin-top: -60px;
+
+}
+
+#solution{
+  margin-left: 150px;
+
+
+}

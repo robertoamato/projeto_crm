@@ -1,0 +1,56 @@
+h1 {
+  background: #f3f4f7 0% 0% no-repeat padding-box;
+  opacity: 1;
+  font: normal normal medium 118px/1px Cera Pro;
+  letter-spacing: 0px;
+  color: #0058ff;
+  margin-top: 450px;
+  text-align: center;
+}
+
+
+.card-img-top{
+  max-width: 20%;
+  max-height: 100%;
+  
+}
+
+
+
+.card-title{
+  text-align: left;
+font: normal normal bold 36px/48px Cera Pro;
+letter-spacing: 0px;
+color: #0058FF;
+opacity: 1;
+}
+
+.card-text{
+text-align: left;
+font: normal normal normal 18px/24px Cera Pro;
+letter-spacing: -0.18px;
+color: #111111;
+opacity: 1;
+
+}
+
+.card1{
+  background-color: #111111;
+}
+
+.card-titulo{
+  text-align: left;
+  font: normal normal bold 36px/48px Cera Pro;
+  letter-spacing: 0px;
+  color: #0058FF;
+  opacity: 1;
+}
+
+.card-texto{
+  text-align: left;
+  font: normal normal normal 18px/24px Cera Pro;
+  letter-spacing: -0.18px;
+  color: #FFFFFF;
+  opacity: 1;
+
+}
