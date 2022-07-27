@@ -1,9 +1,20 @@
+body{
+  background: rgb(228, 225, 225);
+
+
+
+}
+
+
+
+
 h1 {
   margin-left: 35px;
-  font: normal normal bold 48px/48px Cera Pro;
+  font: normal normal bold 60px/48px Cera Pro;
   letter-spacing: 0px;
   color: #111111;
   opacity: 1;
+  
 }
 
 .bg-secondar,h3{
@@ -60,7 +71,15 @@ h6{
 }
 
 #solution{
-  margin-left: 150px;
-
+  margin-left: 200px;
+  text-align: left;
+  font: normal normal bold 48px/48px Cera Pro;
+  letter-spacing: 0px;
+  color: #111111;
+  opacity: 1;
+  margin-top: 2px;
+  line-height: 215px;
+  
 
 }
+

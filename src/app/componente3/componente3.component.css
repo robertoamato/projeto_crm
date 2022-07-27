@@ -1,11 +1,37 @@
+body{
+  background: rgb(228, 225, 225);
+
+
+}
+
 h1 {
-  background: #f3f4f7 0% 0% no-repeat padding-box;
+
+  
+  
   opacity: 1;
-  font: normal normal medium 118px/1px Cera Pro;
+  font-size: 20px;
   letter-spacing: 0px;
-  color: #0058ff;
+  color: #1109f3;
   margin-top: 450px;
   text-align: center;
+  line-height: 30px;
+  
+}
+
+h2{
+  
+  font-size: 70px;
+  color: rgb(228, 225, 225);
+  margin-top: -15px;
+  line-height: 25px;
+}
+
+p{
+  font-size: 30px;
+  color: #090909;
+  
+
+
 }
 
 
@@ -36,7 +62,10 @@ opacity: 1;
 
 .card1{
   background-color: #111111;
+  margin-left: 15px;
 }
+
+
 
 .card-titulo{
   text-align: left;
